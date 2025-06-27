@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: R 3.1.0 / rpart 4.1-6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-20 07:25+0000\n"
+"POT-Creation-Date: 2025-06-25 19:41+0200\n"
 "PO-Revision-Date: 2014-03-16 17:30+0100\n"
 "Last-Translator: Detlef Steuer <steuer@hsu-hh.de>\n"
 "Language-Team: German <debian-l10n-german@lists.debian.org>\n"
@@ -37,31 +37,31 @@ msgstr "Ungültiger Wert für 'method'"
 msgid "unknown error"
 msgstr "unbekannter Fehler"
 
-#: rpart_callback.c:46
+#: rpart_callback.c:43
 msgid "'yback' not found"
 msgstr "'yback' nicht gefunden"
 
-#: rpart_callback.c:50
+#: rpart_callback.c:47
 msgid "'wback' not found"
 msgstr "'wback' nicht gefunden"
 
-#: rpart_callback.c:54
+#: rpart_callback.c:51
 msgid "'xback' not found"
 msgstr "'xback' nicht gefunden"
 
-#: rpart_callback.c:58
+#: rpart_callback.c:55
 msgid "'nback' not found"
 msgstr "'nback' nicht gefunden"
 
-#: rpart_callback.c:104
+#: rpart_callback.c:101
 msgid "return value not a vector"
 msgstr "Rückgabewert ist kein Vektor"
 
-#: rpart_callback.c:106
+#: rpart_callback.c:103
 msgid "returned value is the wrong length"
 msgstr "Rückgabewert hat falsche Länge"
 
-#: rpart_callback.c:138
+#: rpart_callback.c:135
 msgid "the expression expr1 did not return a vector!"
 msgstr "Der Ausdruck expr1 gab keinen Vektor zurück!"
 
@@ -69,6 +69,4 @@ msgstr "Der Ausdruck expr1 gab keinen Vektor zurück!"
 #~ msgstr "Platz im Hauptspeicher reicht nicht aus"
 
 #~ msgid "the expression expr1 returned a list of %d elements, %d required"
-#~ msgstr ""
-#~ "Der Ausdruck expr1 gab eine Liste von %d Elementen zurück, %d sind "
-#~ "erforderlich."
+#~ msgstr "Der Ausdruck expr1 gab eine Liste von %d Elementen zurück, %d sind erforderlich."

@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the rpart package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: rpart 4.1-8\n"
+"Project-Id-Version: rpart 4.1.24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-16 07:53+0000\n"
+"POT-Creation-Date: 2025-06-25 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,30 +37,30 @@ msgstr ""
 msgid "unknown error"
 msgstr ""
 
-#: rpart_callback.c:46
+#: rpart_callback.c:43
 msgid "'yback' not found"
 msgstr ""
 
-#: rpart_callback.c:50
+#: rpart_callback.c:47
 msgid "'wback' not found"
 msgstr ""
 
-#: rpart_callback.c:54
+#: rpart_callback.c:51
 msgid "'xback' not found"
 msgstr ""
 
-#: rpart_callback.c:58
+#: rpart_callback.c:55
 msgid "'nback' not found"
 msgstr ""
 
-#: rpart_callback.c:104
+#: rpart_callback.c:101
 msgid "return value not a vector"
 msgstr ""
 
-#: rpart_callback.c:106
+#: rpart_callback.c:103
 msgid "returned value is the wrong length"
 msgstr ""
 
-#: rpart_callback.c:138
+#: rpart_callback.c:135
 msgid "the expression expr1 did not return a vector!"
 msgstr ""

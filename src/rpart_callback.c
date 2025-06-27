@@ -7,12 +7,7 @@
 #include <Rinternals.h>
 /* don't include rpart.h: it conflicts */
 
-#ifdef ENABLE_NLS
-#include <libintl.h>
-#define _(String) dgettext ("rpart", String)
-#else
-#define _(String) (String)
-#endif
+#include "localization.h"
 
 
 static int ysave;               /* number of columns of y  */
