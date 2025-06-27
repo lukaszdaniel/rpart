@@ -5,7 +5,7 @@ c9d0d6f092f577e8177c97d4014dc815 *inst/doc/usercode.Rnw
 dc89d00042336a816c0646604ce46677 *inst/doc/longintro.Rnw
 040ffcb1e83613f96a62749f9d59fb72 *inst/doc/longintro.R
 140a86475aa2a264e285f8f068752d3a *inst/po/pl/LC_MESSAGES/R-rpart.mo
-5ebc42f2ecb033f807528d6e64bc5343 *inst/po/pl/LC_MESSAGES/rpart.mo
+6d877b398a6c697d4900f898cf9e9561 *inst/po/pl/LC_MESSAGES/rpart.mo
 b6f3c06899c7a029f92ffe7246e0589b *inst/po/ru/LC_MESSAGES/R-rpart.mo
 78f1cae58a2b4ebe56b0769923c7d9ec *inst/po/ru/LC_MESSAGES/rpart.mo
 2fed29ec8fe8f9a6a4ea9cf2cbd7b425 *inst/po/ko/LC_MESSAGES/R-rpart.mo
@@ -123,7 +123,7 @@ baeab063f22cf348f8b0624e2a576089 *po/ko.po
 d41f03d07ad086d02694289dd90430c5 *po/R-ru.po
 89cccb803df865e33362eaac4f39d039 *po/R-rpart.pot
 a563da88c0140f6a1e2697863c064c85 *po/R-ko.po
-dc163b25ab75b791ab6d4feb8c9f21ee *po/pl.po
+08fef086bc892da9dc23eee233aaad07 *po/pl.po
 535fd5fb43e8a08906fde4c5b886e88e *po/ru.po
 58c6ee3bfdddb9c48b3c8f5139384ab4 *po/fr.po
 bebacd5077d3eb60404b850cc9aca0a0 *po/R-fr.po
